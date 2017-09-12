@@ -1,2 +1,3 @@
 # c-projects
-this is a temp read me file 
+
+This is just for c language self study use, not for other usage. 
